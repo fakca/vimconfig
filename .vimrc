@@ -24,7 +24,7 @@ set wrap " Wrap lines
 " Line length in google C++ standarts
 set colorcolumn=80
 
-" Highlight current line
+" Highlight current line [UNDERLINE]
 set cursorline
 
 " Enable syntax highlighting
